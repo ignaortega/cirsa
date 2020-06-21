@@ -3,3 +3,14 @@
 ################################################################################
 
 /SocialGames.TechnicalTest/.vs/SocialGames.TechnicalTest/DesignTimeBuild
+/SocialGames.TechnicalTest/.vs/SocialGames.TechnicalTest/v15
+/SocialGames.TechnicalTest/.vs/SocialGames.TechnicalTest/v16
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Api/bin/Debug/netstandard2.0
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Api/obj
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.ApiService/bin/Debug/netcoreapp3.1
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.ApiService/obj
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/bin/Debug/netstandard2.0
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.Games/obj
+*.user
+/SocialGames.TechnicalTest/SocialGames.TechnicalTest.ApiService/Logs
+/SocialGames.TechnicalTest/.vs/SocialGames.TechnicalTest/config
